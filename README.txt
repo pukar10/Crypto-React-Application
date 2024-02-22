@@ -10,8 +10,10 @@ reatapp1 also loads images.
 
 INSTRUCTIONS TO USE:
 you will need React, Node, and express. Start the server api by typing "node server.js"
-in your terminal. Then "npm start" to run the react application. You should be able
-to use all the features now, good luck!
+in your terminal. go to http://localhost:8080/login (password is test123) Then
+"npm start" to run the react application (http://localhost:3000/).
+Username is "user" Password is "test123" You should be able to use all the features
+now, good luck!
 
 
 FILES:
